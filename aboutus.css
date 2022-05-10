@@ -1,0 +1,21 @@
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+}
+p{
+    font-size: 16px;
+    line-height: 20px;
+}
+h3{
+    font-size: 20px;
+    line-height: 23px;
+}
+.thick-border{
+    border: 2px solid #efefef; 
+    width: 25%; 
+    border-radius: 50px;
+}
+.btn-outline-light:hover {
+    color: #212529;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+}

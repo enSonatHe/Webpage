@@ -1,0 +1,31 @@
+
+/* banner */
+.banner{
+    background-image: url(../images/Expert.jpg);
+    height: 75vh;
+    background-repeat: no-repeat;
+}
+.description h2{
+    font-size: 48px;
+    top: 17px;
+    left: 20px;
+
+}
+.description p{
+    font-size: 24px;
+}
+.register-button{
+    
+    border-radius: 20px;
+}
+.register-button2{
+    background-color: #4387c8;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+/* .blue{
+    width: 100%;
+} */
+.client img{
+    width: 140px;
+}
